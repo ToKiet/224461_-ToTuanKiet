@@ -1,2 +1,3 @@
 Name: Tô Tuấn Kiệt
 Interests: Coding, Design
+Skills: C#, HTML, CSS
